@@ -1,0 +1,45 @@
+{
+  "user": [
+    {
+      "id": "3",
+      "name": "raja gehlot",
+      "email": "raja@gmailcom",
+      "phone": "34343",
+      "password": "122",
+      "status": "Unblock"
+    },
+    {
+      "id": "1717846835324",
+      "name": " King",
+      "email": "king@3434gmail.com",
+      "password": "122",
+      "phone": "86935269",
+      "status": "Unblock"
+    },
+    {
+      "id": "1717896348153",
+      "name": "ss",
+      "email": "ss@gmail.com",
+      "password": "",
+      "mobile": "",
+      "phone": "235698563",
+      "pswd": "3"
+    },
+    {
+      "id": "1717896499439",
+      "name": "raj",
+      "email": "raj23@gmail.com",
+      "password": "123",
+      "phone": "2323232323",
+      "remember": "on"
+    },
+    {
+      "id": "1717896567676",
+      "name": "krisha",
+      "email": "krishnagehlot22@gamil.com",
+      "password": "2334",
+      "phone": "56896325",
+      "status": "Unblock"
+    }
+  ]
+}
