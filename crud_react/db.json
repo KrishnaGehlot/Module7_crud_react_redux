@@ -1,0 +1,46 @@
+{
+  "user": [
+    {
+      "id": "1717769625341",
+      "name": "Raja",
+      "email": "rajagehlot3322@gmail.com",
+      "phone": "08619763412455",
+      "status": "Unblock"
+    },
+    {
+      "id": "1717822570966",
+      "name": "Ketan",
+      "email": "ketan@gmail.com",
+      "phone": "555534344",
+      "status": "Unblock"
+    },
+    {
+      "id": "1717822858249",
+      "name": "Himanshu",
+      "email": "Himanshu@gmail.com",
+      "phone": "232323232",
+      "status": "Unblock"
+    },
+    {
+      "id": "1717822991291",
+      "name": "Krishna",
+      "email": "krishna@gmail.com",
+      "phone": "767387384",
+      "status": "Unblock"
+    },
+    {
+      "id": "1717824104444",
+      "name": "Rohit",
+      "email": "rohit223@gmail.com",
+      "phone": "344343434",
+      "status": "Unblock"
+    },
+    {
+      "id": "1717824104444",
+      "name": "Rohit",
+      "email": "rohit223@gmail.com",
+      "phone": "344343434",
+      "status": "Unblock"
+    }
+  ]
+}
